@@ -1,7 +1,6 @@
 # Sales_And_Finance_Analaysisi_of_Atliq_Hardware
 Excel project1
 
-## Sales And Finance Analytics Of AtliQ Hardwares:
 
 ## Sales Report:
 
